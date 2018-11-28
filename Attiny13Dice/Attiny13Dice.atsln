@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "Attiny13Dice", "Attiny13Dice.cppproj", "{49018A4D-5332-4512-8159-89073013F3FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49018A4D-5332-4512-8159-89073013F3FB}.Debug|AVR.ActiveCfg = Debug|AVR
+		{49018A4D-5332-4512-8159-89073013F3FB}.Debug|AVR.Build.0 = Debug|AVR
+		{49018A4D-5332-4512-8159-89073013F3FB}.Release|AVR.ActiveCfg = Release|AVR
+		{49018A4D-5332-4512-8159-89073013F3FB}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

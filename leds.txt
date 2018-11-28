@@ -1,0 +1,19 @@
+oranje 1,89v / 452,5 ohm -> 470
+
+blauw 2,90v / 200 ohm -> 220
+
+
+4mA
+
+70mA / 12 = 5,83
+
+3.95V
+blauw 570ohm = 2mA
+oranje 330ohm = 6.2mA
+
+4.18V
+blauw  330ohm = 4mA
+oranje 330ohm = 6.9mA
+
+blauw 330ohm = 3,9mA
+oranje 300ohm = 7,5mA
